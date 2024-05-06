@@ -22,9 +22,3 @@
 ---
 > [!TIP]
 > Do not try to select your frame again. It's already stored in the plugin.
----
-
-## Terms of Use 🔍
-> You are allowed to replicate this plugin using the dev builds.
-> You aren't allowed to claim the plugin as 'yours', you must credit me in either the description or somewhere inside the plugin.
-> You are allowed to contribute to this plugin.
