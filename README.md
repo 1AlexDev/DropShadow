@@ -9,7 +9,7 @@
   - or GitHub releases!
 
 **Tutorial**:
-1. Select the frame to which you'd like to add a drop shadow.
+1. Select the frame you'd like to add a drop shadow to.
 ---
 > [!CAUTION]
 > Make sure to use **only** **one** frame.
@@ -18,7 +18,7 @@
 
 3. Insert the Transparency Value. (**0.1 - 0.9**)
 
-4. Click **"Confirm"**!
+4. Click the **"Confirm"** button!
 ---
 > [!TIP]
 > Do not try to select your frame again. It's already stored in the plugin.
