@@ -1,5 +1,5 @@
-# DropShadow 👻
-**DropShadow** is a Roblox Studio plugin that **empowers UI designers** to add drop-shadows to their frames.
+# Drop Shadow 👻
+**Drop Shadow** is a Roblox Studio plugin that **empowers UI designers** to add drop shadows to their frames.
 
 > [!IMPORTANT]
 > This plugin has **just** released, so please expect bugs.
@@ -9,7 +9,7 @@
   - or GitHub releases!
 
 **Tutorial**:
-1. Select the frame that you'd like to add a drop shadow to.
+1. Select the frame to which you'd like to add a drop shadow.
 ---
 > [!CAUTION]
 > Make sure to use **only** **one** frame.
